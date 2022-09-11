@@ -12,6 +12,7 @@ function App() {
 
   return (
     <div className="container-weather">
+//
       <div className="search">
         <input
           ref={inputEl}
